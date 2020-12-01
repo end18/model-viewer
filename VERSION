@@ -1,0 +1,9 @@
+commit 4252cfba1200053702bcdc92f08bd12fc32b1c41
+Author: Emmett Lalish <elalish@google.com>
+Date:   Tue Dec 1 15:30:16 2020 -0800
+
+    updated three.js to r123 (#1740)
+    
+    * updated three.js to r123
+    
+    * lengthen timeout for IE11
